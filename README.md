@@ -1,7 +1,3 @@
-# Machine-Learning
-
-# Projects and learning notes in Machine Learning class
-
 # README
 
 Used to record the experiment and learning notes in the machine learning course of Harbin Institute of Technology.
